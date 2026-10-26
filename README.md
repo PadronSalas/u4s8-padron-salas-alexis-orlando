@@ -23,9 +23,10 @@ Hicimos 2 cuentas "usuarioa" y "usuariob" donde agregamos 2 servicios, y editamo
 
 ## Historial de unidades
 - Unidad 1: portafolio estático con HTML5 + Tailwind
-
+  Hicimos un Index y un Portafolio de nuestro sobre mi
 - Unidad 2: modelo Servicio migrado a MySQL, deploy dinámico en Render
-
+Vimos las primeras formas de nuestro servicio
 - Unidad 3: CRUD completo con ModelForms + autenticación y sesiones
-
+Hicimos el CRUD completo con admin y servicios funcional
 - Unidad 4: paginación, búsqueda, UI review y defensa final
+Vimos mas caracteristicas en servicios y admin, hicimos mas tablas y un README definitivo
